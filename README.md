@@ -6,7 +6,7 @@ Meu nome é Diego Coriolano e sou **Desenvolvedor Backend** desde 2023, com foco
 
 #### Apaixonado por Tecnologia, Games e Ciência! 👨🏻‍💻🎮🔭
 
-#### 📊 Data Analyt formado pelo Google.
+#### 📊 Data Analyst formado pelo Google.
 
 #### ⚓ Fui Aspirante-a-Oficial da Marinha do Brasil
 
@@ -34,7 +34,7 @@ Meu nome é Diego Coriolano e sou **Desenvolvedor Backend** desde 2023, com foco
 
 ## 📈 Estatísticas para quem gosta!
 
-![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCoriolano)
+![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCoriolano&theme=dracula&show_icons=true&custom_title=Linguagens%20mais%20usadas)
 
 
 
