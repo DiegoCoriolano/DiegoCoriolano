@@ -8,12 +8,13 @@ Meu nome é Diego Coriolano e sou **Desenvolvedor Backend** desde 2023, com foco
 
 #### ⚓ Fui Aspirante-a-Oficial da Marinha do Brasil
 
-## Como me encontrar:
+## 🌐 Como me encontrar:
 
 [![Link para o perfil do Linkedin de Diego Coriolano](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/diego-coriolano/)
 [![Link para o perfil do Twitter de Diego Coriolano](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/CDiegoCori)
+[![Escrever e-mail para Diego Coriolano](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](<a href="mailto:diegoo.dm@gmail.com">)
 
-## Hard Skills
+## 👨🏻‍💻 Hard Skills
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -28,6 +29,7 @@ Meu nome é Diego Coriolano e sou **Desenvolvedor Backend** desde 2023, com foco
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
-## Soft Skills
+
+## 🙋🏻‍♂️ Soft Skills
 
 
