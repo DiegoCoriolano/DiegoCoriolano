@@ -1,6 +1,8 @@
 ## Olá! Seja bem vindo ao meu GitHug 🚀
 
-Meu nome é Diego Coriolano e sou **Desenvolvedor Backend** desde 2023, com foco em Node.js, Javascript, Typescript, PostgreSQL e API Rest. Curso faculdade de Sistemas de Informação. Já atuei em diversos ramos de emprego, sempre utilizando a tecnologia para me destacar.
+> "I am the master of my fate. I am the captain of my soul." - Invictus by William Ernest Henley
+
+Meu nome é Diego Coriolano e sou **Desenvolvedor Backend** desde 2023, com foco em Node.js, Javascript, Typescript, PostgreSQL e API Rest. Curso faculdade de Sistemas de Informação. Já atuei em diversos ramos de emprego, sempre utilizando a tecnologia ao meu favor.
 
 #### Apaixonado por Tecnologia, Games e Ciência! 👨🏻‍💻🎮🔭
 
@@ -30,6 +32,9 @@ Meu nome é Diego Coriolano e sou **Desenvolvedor Backend** desde 2023, com foco
 ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
 
-## 🙋🏻‍♂️ Soft Skills
+## 📈 Estatísticas para quem gosta!
+
+![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCoriolano)
+
 
 
