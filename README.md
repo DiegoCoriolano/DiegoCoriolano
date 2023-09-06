@@ -12,7 +12,7 @@ Meu nome é Diego Coriolano e sou **Desenvolvedor Backend** desde 2023, com foco
 
 [![Link para o perfil do Linkedin de Diego Coriolano](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/diego-coriolano/)
 [![Link para o perfil do Twitter de Diego Coriolano](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/CDiegoCori)
-[![Escrever e-mail para Diego Coriolano](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](<a href="mailto:diegoo.dm@gmail.com">)
+[![Escrever e-mail para Diego Coriolano](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:diegoo.dm@gmail.com)
 
 ## 👨🏻‍💻 Hard Skills
 
