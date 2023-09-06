@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá! Seja bem vindo ao meu GitHug 🚀
 
-<!--
-**DiegoCoriolano/DiegoCoriolano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Diego Coriolano e sou **Desenvolvedor Backend** desde 2023, com foco em Node.js, Javascript, Typescript, PostgreSQL e API Rest. Curso faculdade de Sistemas de Informação. Já atuei em diversos ramos de emprego, sempre utilizando a tecnologia para me destacar.
 
-Here are some ideas to get you started:
+#### Apaixonado por Tecnologia, Games e Ciência! 👨🏻‍💻🎮🔭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📊 Data Analyt formado pelo Google.
+
+#### ⚓ Fui Aspirante-a-Oficial da Marinha do Brasil
+
+Como me encontrar:
+
+[![Link para o perfil do Linkedin de Diego Coriolano](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/diego-coriolano/)
+[![Link para o perfil do Twitter de Diego Coriolano](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/CDiegoCori)
