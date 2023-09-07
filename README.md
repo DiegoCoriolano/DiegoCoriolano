@@ -35,7 +35,7 @@ Meu nome é Diego Coriolano e sou **Desenvolvedor Backend** desde 2023, com foco
 ## 📈 Estatísticas para quem gosta!
 
 ![Principais estatísticas](https://github-readme-stats.vercel.app/api?username=DiegoCoriolano&layout=compact&theme=dracula&show_icons=true&custom_title=Principais%20Estatisticas)
-![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCoriolano&layout=donut&theme=dracula&show_icons=true&custom_title=Linguagens%20mais%20usadas)
+![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCoriolano&theme=dracula&show_icons=true&custom_title=Linguagens%20mais%20usadas)
 
 
 
